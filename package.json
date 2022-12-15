@@ -33,7 +33,7 @@
     "pr-check-build-be": "cd backend && npm run build"
   },
   "engines": {
-    "npm": "8.1.2"
+    "npm": "12.3.4"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.20.0",
